@@ -100,12 +100,11 @@ tatoo.html
 ```
 
 ## Output:
-![Alt text](0.png)
-![Alt text](1.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](5.png)
+![0](https://github.com/sreeniveditaa/places-around-me/assets/147473268/a8661960-8b47-4098-bbea-d72b92dd731d)
+![1](https://github.com/sreeniveditaa/places-around-me/assets/147473268/b554f5b2-416a-4eb4-9b24-9d254e51ef81)
+![2](https://github.com/sreeniveditaa/places-around-me/assets/147473268/02425a70-639b-4ea8-9342-31718a9f238a)
+![3](https://github.com/sreeniveditaa/places-around-me/assets/147473268/fcbe5e8e-f2e6-4e5c-bf2e-b17581fbbe21)
+![4](https://github.com/sreeniveditaa/places-around-me/assets/147473268/e4c4ec6a-4119-4840-a6a3-43fca6555f47)
 ![5](https://github.com/sreeniveditaa/places-around-me/assets/147473268/b2a788ad-9a0f-47e7-b38e-84d09d3e112e)
 
 
