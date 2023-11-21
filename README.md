@@ -106,6 +106,8 @@ tatoo.html
 ![Alt text](3.png)
 ![Alt text](4.png)
 ![Alt text](5.png)
+![5](https://github.com/sreeniveditaa/places-around-me/assets/147473268/b2a788ad-9a0f-47e7-b38e-84d09d3e112e)
+
 
 ## Result:
 The image maps has been created successfully.
