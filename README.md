@@ -2,7 +2,7 @@
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## Date: 21.11.2023
+## Date: 
 
 ### Step 1:
 Create a django admin interface.
